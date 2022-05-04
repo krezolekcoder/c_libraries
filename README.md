@@ -1,2 +1,2 @@
 # c_libraries
-Repository with generic libraries written in C, tested using TDD framework called Ceedling
+Repository with libraries, data_structs  written in C, tested using TDD framework called Ceedling
